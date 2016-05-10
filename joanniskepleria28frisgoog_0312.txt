@@ -1,0 +1,63 @@
+em nerea capue xxm. 293
+
+bisecans nc in λς et connectantur μ,α cnm β. Cum ergo ααβ sit graduum
+integrorum angulus, erit et residuus αβα, eique aequalis μαδ integrorum
+graduum, et in triangulis βἀα, β λα similibus aequae erit latns κα lateri
+λβ, et κβ ipsi λα. Est antem λβ sinus anguli λμβ, λαβ; et ipsius λμβ
+complementum est λβμ, λβας ejusque sinus linea λ μ, λη et ipsarum αμ, αα
+differentia λα. Atqui quantitates λα, idjam inventae suntin triangulo αβα.
+Ergo unius trianguli ope quatuor inveniri possunt distantiae aequalibus
+angulis ad α, remota a linea apsidum ejusque perpendiculari ζη per α
+ducta: est enim μαζ aequalis ipsi θαλ et req ipsi sca. Est itaque
+longissima distantia iu d, brevissima in a, mediocris vero et aequalis ipsi βζ,
+non in ζης sed neque in linea per β, ipsi ζα parallelo, quae sit ξο. Nam
+αζ minor est quam βζ, eo quod minori. ζ β α subtendatur quam est' ῑαβ,
+utpote rectns; et αξ ducta longior est quam βξ, eo quod majori ξβα (ut-
+pote recto) subtendatur, ξβ vero minori ξαβ.
+
+Ut autem distantiae mediae locus geometrice designetur, bisecetur αβ
+signo c, perque hoc perpendicularis ipsi αβ agatur αρ, secans circulum in
+a, ρ. Dico haec esse signa aequaliter ab α et a β distantia. Conuectatur
+enim alterum signorum α cum α et cnm β, erunt αα, αβ aequalibus (ut-
+pote rectis) angulis ασα, ασβ suscenses, et ασ,σβ aequales, et ασ com-
+munis. Ergo αα, αβ aequales. Et sic Reinholdo usurpata demonstratio
+de tota ay et ejus medio puncto β, vera manet “de puncto σ etdimidia αβ. 1
+
+Possit igitur aliquis cogitare, cum in rr distantia απ flat aequalis ipsi
+βα semidiametro, angulum etiam βαα majorem cese ipso βζα, et sic ma-
+ximam aequationem in α contingere: argumento usus, qnod recta βα ipsi α
+directius objiciatur quam ipsi ζ. Atqui verum non est, quod erat· pro-
+positum. Nam quanto obliquius βα respicit ζ, tanto longius vicissim di-
+stat α quam ζ’, cum αα sit longior quam ¹lor, major enim αβσ quam ζβά,
+cui ζα subtenditur.
+
+Demonstravit igitur recte Ptolemaeus et ex eo Reinholdus in Theoricis,
+maximam aequationem (eccentri quidem solitariam seu opticam) contingere
+in ζ. Eam tamen demonstrationem in forma alia faciliori hic proponam.
+Sit signnm qualecunque supra ζ, utpote o, et qualecunque infraq vell,
+utpotae, et connectantur cum α, et θιβ perpendiculares cadant in θα
+vel ια continuatam, qnae sint βκ. Quia igitur aequales sunt λαζ et βαα
+utpote recti, et κβα, ααβ juncti aequales nni recto, eodem igitur dud vel
+βαα ab aequalibus ablato, relinquentur θαζ, κβα aequales. Et primum
+atque snpra punctum ζ ducitur aliqua per α, nt jam θα, seu proximum sit
+dipsil seu remotum, simul etiam a βα declinat illins perpendicularis βα
+Major autem eat βα qnam nlla perpendicularinm βα, cum βα subtendatur
+damoeta, pavero acuto βακ et minori. Cum autem βζ, βθ, βα sint
+aequales, et βαζ, dett, βκι recti; quadrant igitur in eundem semicirculum,
+cujus diametm cst aequalis ipsis βζ, ild, βι. Itaque βα (ut longior)
+majorem circumferentiam hujuscemodi alicujus semicirculi subtendit quam
+da aut quaecunque perpendicularinm3 et proinde major erit ejus angulus ‚
+βζα qnam βθκ aut cujuscunque puncti alterius supra ζ, utpote a vel ξ,
+
+mgnlus prosthaphaereseos. Quod erat demonstrandum.
+Quae hoc capite de computandis distantiis Solis et Terrae sunt dicta,
+
+valebunt etiam inMarte, quantisper erit in suppositis, planetarum orbitas
+case circulos periectos. Quo laiso deprehenso, elia methodus tradetur eas
+
+computandi.
+
+m-
+
+ 
+

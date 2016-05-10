@@ -1,0 +1,60 @@
+662 ns aaa
+
+motu simplici, sed duomm respectuum: quatenus igitur simplex, dat uuam
+= partem aequationis, opticam, quatenus duorum respectuum, dat duas partes
+aequatiouia physicae. Sed ¹quae causa, quod tantundem lacit elevatio super
+corpus, qnam super circulum illuminationis? Au circulo toti tantundem
+virium est, quantum Terrae ut' corpori? Cor ergo uon etiam trahit circulus.
+quia ponimus eccentricitatemnullam novam lieri? An tractio corporum affec-
+tus est, incitatio etiam luminis, saue qnia per speciem corporis emanantem,
+ιιι etlumen est species? llla vero tractio est per cognationem internam.
+. Incitat igitur lumen Telluris, prout vel cavitas vel gibbus ab exilitate lineae
+iu amplitudinem ellipticarn et denique circularem excrescit. Diceree, incita-
+tionem lieri pro ratione phaseoS, ut quia in dimidia illuminatione simplex
+est incitatio, igitur iu plena Luna est dupla, et quia iu dimidia obscura
+simplex, iu tota igitur obscura dupla. Nam accrescit dimidium eadem pro-
+
+· portione, qua duplum id est liuea per totas ellipses ιιι totum circulum At
+
+obstat boc dict turo, quod, si obscurae vim tribuo luminosae aequalem, sem-
+per igitur cornu obscurum curn gibbo luminoso, et vicissim cornu luminosum
+cum gibboeae facie obscura faciunt totum circulum. Νοιι igitur ratione dupli-
+cati rel luminis vel obscuri conspectus provenit duplicata retardatio, sed
+ratione inclinationis circuli illuminationis, plane ut' ιιι variatione.
+
+Au idem sit negotium variationis et nutus? Idem quidem circellus
+utilis est, iu incrementis quidem, sinus FB, OG, io ellectu vero BG rel
+He: idem etiam circulus illuminationis utrique mensuram praebet eodem
+modo, uam totus circulus valet in incrementis sinum FB, iu ellectu uihil,
+quippe principium, sicut etiam in nutu, ubi totus est circulus illuminationis,
+ibi apogaeum est aequatio nulla, incrementa maxima. At vicissim haec est
+differentia, quod lu nutu distantia) a ὅ partes capit, ut de integris 360;
+¹in variatione vero partes aliter capi nou possent, quam de ll⁰minusz aut
+si maxime pro accumulatione sinuum 90 usurparemus sinus totos 90, nou
+plane duplum liet id, de quo partes caperet nutus. Quaerenda est igitur
+causa, cur iu nutu circulus illuminationis raleat toturn (ι el dimidium sortasse),
+iu variatione valeat miuus quam 20⁰.
+
+10. Αρι. 1020. ’
+
+’ Anne variatio deducitura quadrato ipsids 19, quod est 36¹? quia nou
+Terrae tautum illuminatio, sed etiam Lunae consideranda, agendumque per
+sinuum quadrata, ut major liat motus in copulis, minor duratio eclipsium,
+quod postulant observationes. ' ·
+
+Computa: Acceleratio quadrantis est 2⁰ ‘10‘ 59¹¹ sen 9659”, sit 9660”.
+Igitur quadrata sinuum 90 valent lianc summam Quis docebit uos colli-
+gere breviter quadrata sinuum? Extendatur quadrans iu rectum cum suis
+sinibus. Videtur rectangulum continere summam quadratorum smuum Facile
+reperientem. Aug. 30⁰ est ¹,} de 90⁰, ejus sinus est Ἰ, decorantur
+rectangulo siuns pars abscissa erit etiam Ἃ, curn tamen quidem ejus sit
+¹l,. Peccat igitur triangulum excessu. Sic agemus per logarithmos. Dupli-
+cabimus logarithmos omnium integrorum graduum quadrantis, cum iis ax-
+cerpemus numeros eoaque addemus, initio facto a maximo.
+
+Praecise assequimur numerum 90 et prima summula est ultimae pars
+45¹⁸. Si acceleratio 200000, quauta estin 1⁰, sumeretur nonagies, prodiret
+18000000, duplum summae ex 90 inaequalibus collectae, quia semper duo,
+
+ 
+

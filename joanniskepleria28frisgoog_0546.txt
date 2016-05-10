@@ -1,0 +1,67 @@
+cuma scr ⁸
+
+’ ‘Corollarinm St dixero, rectanpnlnm snb segmentis diametri minoris
+a circumferentia majoris factis, scil. BA, temperamentorum snb seg-
+mento minori diametri majoris alinea· VX sectionum facto, et sub diametri
+majoris AY et differentiae partium ΒΛ,Αο vel summa vel differentia.
+res eodem redibit. Nam rectangnlnm BA, AO est idem, quod quadratum
+BA. Sic differentia ,segmentorum BA, AC est nihil. Nihil vero subtractum
+
+ab AY relinquit AY, nihil additum td AY facit AY·
+
+Theorema XV.
+
+Ceteris manentibus nt prius, si centrum minoris fuerit intra circumferen-
+
+tiam majoris, rectangnlnm snb partibus diametri minoris, qnas
+
+disseparet circumferentia major, aequale est rectangnlo sub
+
+segmento diametri majoris minori, quod linea per sectiones
+
+facit, et sub differentia inter diametrum majorem differen-
+tiamque dictarum minoris partium.
+
+Stet centrum minoris A intra circumferentiam majoris, et sit linea
+sectionum KG, secans ductam per Ε, Α in puncto Ι, in qna EA conti-
+nnata sint puncta circumferentiae majoris N, K, minoris L, Μ, sintque
+K, M interiora. Et ipsi LK ex M aequalis versus A centrum extendatur
+Mo, ut ΚΟ sit differentia partium LK, ΗΜ, et ΟΝ differentia ipsarum NK, ΗΟ.
+Dico rectangulnm snb LK, ΚΜ aequari rectangnlo snb Kl, ON. Ut hoc
+sine magna perplexitate demonstretur, considera, quod lp sit communis
+perpendicularis ex puncto diametri 1 in utramque circumferentiam F. Qun·
+drotum igion· ΙΝ aequale est rectungnlo snb Kl, IN segmentis diametri
+majoris, aequale et reetangnlo snb LI, lM segmentis diametri minoris· Ac·
+proinde rectangula haec utrobique sunt inter se aequalia. Verum quod slrb
+Ll, lM majus est eo, qnod snb LK, IM quantitate ejns, qnod sub KI, lM.
+Commune auferatur KI, IM. Quod ergo snb LK, lM aequale erit ei, qnod
+sub KI, MN. Rursum autem, qnod snb LK, IM rninns est eo, qnod pro-
+positio habet, snb LK, ΚΜ, quantitate ejus, quod sub LK, Kl. Et simi·
+liter, qnod sub KI, MN minus est eo, qnod propositio habet snb ΚΙ, ΟΝ,
+
+. quantitate ejus, qnod snb KI, OM, l. e. LK ex construetione. Aequalia ,
+
+igitur aequali aliquo minora snnf iis qnae proposita sunt, qnodque suo
+respondenti. Igitur st proposita inter se sunt aequalia')
+
+Theorema XVI.
+
+Rursum eet-sris manentibus nt theor.,XIV. si centrum niinoris
+fcerit extra circumferentiam majoris: rectangnlnm snb parti-
+bus diametri minoris, quas disseparet circumferentiamaJ'or,
+aequale est rectangulo snb segmento diametri majoris minori,
+quod facit linea per sectio-nes ct snb composita ex diametro
+majore et differentia dictarum minoris partium.
+
+Stet centrum minoris A extra circumferentiam majoris, et sit linea
+sectionum ΡΟ, secans ductam per Ε, Α in puncto R, sintque iu hac per
+cantra= ducta puncta circumferentiae majoris N, K nt prins, minoris vero ·
+Η, S, sed N, S interiora: et ipsi ΞΝ aequalis ab H extendatur ΗΖ versus
+A, ut ZN sit differentia partium HN, NS, et ZK summa ipsarum ΚΝ, ΝΖ.
+Dico rectsngulnm snb partibus ΗΝ, NS aequale esse rectangulo snb RN, KZ.
+Rursum enim, nt prins mediante communi perpendiculari ΗΡ inutraque.
+
+circulo demonstratnr, aequalia rectangnla, qnod sub SR, RH, et qnod sub .
+
+ 
+
